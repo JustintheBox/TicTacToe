@@ -96,7 +96,7 @@ class _TicTacToeState extends State<TicTacToe> {
           }
           if (winner == "X") {
             winner = playerOneName;
-          } else {
+          } else if (winner == "O") {
             winner = playerTwoName;
           }
           showDialog(
@@ -236,14 +236,21 @@ class _TicTacToeState extends State<TicTacToe> {
                 ),
               ),
             ),
-            ElevatedButton(
-              child: const Text('Main Menu'),
-              onPressed: () {
-                Navigator.push(
-                  context,
-                  MaterialPageRoute(builder: (context) => MyApp()),
-                );
-              },
+            Padding(
+              padding: const EdgeInsets.only(bottom: 15),
+              child: ElevatedButton(
+                onPressed: () {
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(builder: (context) => MyApp()),
+                  );
+                },
+                child: Text("Main Menu"),
+                style: ElevatedButton.styleFrom(
+                  minimumSize: const Size(200, 50),
+                  backgroundColor: Colors.blue[400],
+                ),
+              ),
             ),
             Padding(
               padding: const EdgeInsets.only(bottom: 40),

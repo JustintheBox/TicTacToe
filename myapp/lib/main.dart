@@ -29,6 +29,7 @@ class _MyAppState extends State<MyApp> {
     return Scaffold(
       appBar: AppBar(
         title: Text('Tic Tac Toe'),
+        backgroundColor: Colors.lightBlue[900],
       ),
       backgroundColor: Colors.blueGrey[900],
       body: SingleChildScrollView(
