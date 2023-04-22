@@ -1,5 +1,5 @@
 # Tic Tac Toe designed in Flutter
-Mobile app to play a game of tic tac toe with a friend. Stunning UI and visuals, no more X and O's. 
+Coding challenge from MINDTAPP: Mobile app to play a game of tic tac toe with a friend. Stunning UI and visuals, no more X and O's. 
 
 # Features
 - User Inputted Names
