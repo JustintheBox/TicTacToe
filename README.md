@@ -8,7 +8,7 @@ Coding challenge from MINDTAPP: Mobile app to play a game of tic tac toe with a 
 - Start button, main menu button, and reset game button.
 - Label to show whose turn it is.
 - Checks for diagonals, rows, and columns to determine a winner.
-- Checks for Tie.
+- Checks for tie.
 - Alert Dialog to annouce the results of the game.
 
 
