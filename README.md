@@ -4,7 +4,7 @@ Coding challenge from MINDTAPP: Mobile app to play a game of tic tac toe with a 
 # Features
 - User Inputted Names
 - 3x3 grid with images
-- Start button, main menu button, reset game button.
+- Start button, main menu button, and reset game button.
 - Checks for diagonals, rows, and columns to determine a winner.
 - Checks for Tie
 
