@@ -1,5 +1,5 @@
-# TicTacToe
-TicTacToe designed in Flutter
+# Tic Tac Toe
+Tic Tac Toe designed in Flutter
 
 
 ![image](https://user-images.githubusercontent.com/83481452/233810133-42993cf5-eef6-4b7e-86f0-2e456512dc5c.png)
