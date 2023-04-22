@@ -1,5 +1,12 @@
 # Tic Tac Toe designed in Flutter
-Mobile app to play a game of tic tac toe with a friend. Stunning UI and visuals, no more boring X and O's. 
+Mobile app to play a game of tic tac toe with a friend. Stunning UI and visuals, no more X and O's. 
+
+# Features
+- User Inputted Names
+- 3x3 grid with images
+- Start button, main menu button, reset game button.
+- Checks for diagonals, rows, and columns to determine a winner.
+- Checks for Tie
 
 
 ![image](https://user-images.githubusercontent.com/83481452/233810133-42993cf5-eef6-4b7e-86f0-2e456512dc5c.png)
